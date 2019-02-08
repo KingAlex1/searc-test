@@ -1,0 +1,2 @@
+.table-title-item{position:relative;cursor:pointer}.table-title-item:after{content:"";position:absolute;border:5px solid transparent;border-top-color:#000;margin-left:5px;top:50%}.rotated:after{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.table-name-item{padding:0 10px}.number-list{display:flex;flex-direction:row}.number-item{cursor:pointer;margin-left:10px;list-style-type:none}
+/*# sourceMappingURL=main.451206f0.chunk.css.map */
